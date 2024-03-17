@@ -21,5 +21,3 @@ Part3_LLM_Integration/
     Provides scripts for integrating a pre-trained LLM, performing text summarization, generating creative text variations, and demonstrating custom prompt engineering.
 Part4_Project_Proposal/
     Contains a separate document outlining the project proposal for the AI solution, addressing problem statement, target audience, unique solution approach, key features, and technical implementation details.
-
-Comprehensive project in Python, data science, ML, &amp; LLM integration. Structured into 4 parts, showcasing diverse software development &amp; AI skills. Learning resource for Python, EDA, ML, &amp; LLM text processing.
